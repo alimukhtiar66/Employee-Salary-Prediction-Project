@@ -1,1 +1,2 @@
 # Employee-Salary-Prediction-Project
+This project predicts employee salaries based on features like experience, education, job role, and location. It uses machine learning techniques, including linear regression, to analyze and model salary data. The repository includes tools for data preprocessing, visualization, and model evaluation. Datasets can be imported from CSV file for training and testing. Ideal for understanding salary trends and exploring machine learning applications in HR analytics.
